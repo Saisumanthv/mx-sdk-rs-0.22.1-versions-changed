@@ -1,0 +1,16 @@
+////////////////////////////////////////////////////
+////////////////// AUTO-GENERATED //////////////////
+////////////////////////////////////////////////////
+
+#![no_std]
+
+dharitri_wasm_node::wasm_endpoints! {
+   str_repeat
+   (
+        init
+        callBack
+        getByteArray
+        getByteArrayLength
+        repeat
+   )
+}
